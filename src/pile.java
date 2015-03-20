@@ -56,7 +56,9 @@ public class pile {
 	}
 	
 	private void afficherPile(int pile[]){
-		for (int i =0; i < pile.length)
+		for (int i =0; i < pile.length; i++){
+			System.out.println(this.pile[i]);
+		}
 	}
 
 

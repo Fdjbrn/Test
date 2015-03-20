@@ -5,7 +5,8 @@ public class appliPile {
 
 	public static void main(String[] args) {
 		maPile = new pile(7);
-		maPile.empiler(2);
+		maPile.afficherPile(int pile[]);
+		
 	}
 	
 
