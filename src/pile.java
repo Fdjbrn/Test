@@ -59,6 +59,7 @@ public class pile {
 		for (int i =0; i < pile.length; i++){
 			System.out.println(this.pile[i]);
 		}
+		
 	}
 
 
